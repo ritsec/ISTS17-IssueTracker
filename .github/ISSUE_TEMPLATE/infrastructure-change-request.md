@@ -3,7 +3,8 @@ name: Infrastructure Change Request
 about: Submit a proposal to migrate infrastructure or servers to another IP, host
 title: 'Infrastructure Change Request: [TEAM NAME]'
 labels: ChangeRequest
-assignees: 's-newman', 'micahjmartin', 'scuzz3y'
+assignees: 's-newman micahjmartin scuzz3y'
+
 ---
 
 # Change Request Information
